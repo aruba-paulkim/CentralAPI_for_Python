@@ -1,0 +1,2 @@
+Serial1,reboot
+Serial2,save_configuration
