@@ -31,11 +31,12 @@ apiurl = "INPUT_YOUR_APIURL"
 <pre>python3 central_unsubscription.py -f unsubscription_list_file
 example : python3 central_unsubscription.py -f central_unsubscription_list.txt
 </pre>
+![](images/central_unsubscription_result.png)
 
 ### Central Device Command API
 
 <pre>python3 central_device_command.py -f device_list_file
 example : python3 central_device_command.py -f device_list.txt
 </pre>
-
+![](images/central_device_command_result.png)
 
